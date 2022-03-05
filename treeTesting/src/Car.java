@@ -1,5 +1,5 @@
 
-//“On my honor, I have neither received nor given any unauthorized assistance on Final Exam." Faniz Eliasvand 
+
 public class Car implements Comparable<Car> {
 
    private String Description, Owner;

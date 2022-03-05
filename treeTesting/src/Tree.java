@@ -1,7 +1,7 @@
 // Fig. 21.15: Tree.java
 // TreeNode and Tree class declarations for a binary search tree.
 // package com.deitel.datastructures;
-//“On my honor, I have neither received nor given any unauthorized assistance on Final Exam." Faniz Eliasvand 
+ 
 // class TreeNode definition
 class TreeNode<E extends Comparable<E>> {
 	// package access members
